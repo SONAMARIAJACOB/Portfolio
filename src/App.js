@@ -10,7 +10,7 @@ function App() {
             Sona Maria Jacob
           </h1>
           <p className="text-xl text-gray-300">
-            Full-Stack Developer | Java | Spring Boot | React | PHP |
+            Full-Stack Developer | Java | Dot Net | Spring Boot | React | PHP |
             WooCommerce | Node.js
           </p>
           <p className="text-sm text-gray-400">
@@ -47,7 +47,7 @@ function App() {
           <p className="text-gray-200">
             A results-driven Full-Stack Developer with over four years of
             experience in backend and frontend development, specializing in
-            Java, Spring Boot, PHP, NodeJS, WooCommerce, WordPress, and ReactJS.
+            Java, Spring Boot, Dot Net, PHP, NodeJS, WooCommerce, WordPress, and ReactJS.
             Adept at designing, developing, and optimizing web applications with
             a strong focus on scalability, performance, and user experience.
             Experienced in building microservices-based architectures,
