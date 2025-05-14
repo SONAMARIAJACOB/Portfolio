@@ -47,17 +47,17 @@ function App() {
           <p className="text-gray-200">
             A results-driven Full-Stack Developer with over four years of
             experience in backend and frontend development, specializing in
-            Java, Spring Boot, Dot Net, PHP, NodeJS, WooCommerce, WordPress, and ReactJS.
-            Adept at designing, developing, and optimizing web applications with
-            a strong focus on scalability, performance, and user experience.
-            Experienced in building microservices-based architectures,
-            integrating RESTful APIs, and implementing responsive web designs.
-            Proficient in database management (MySQL), DevOps tools (Docker,
-            Jenkins, Git), and Agile methodologies (Scrum, JIRA). Successfully
-            led e commerce and hospitality projects, enhancing digital platforms
-            for major brands. Passionate about delivering robust digital
-            solutions through efficient backend services and seamless frontend
-            experiences.
+            Java, Spring Boot, Dot Net, PHP, NodeJS, WooCommerce, WordPress, and
+            ReactJS. Adept at designing, developing, and optimizing web
+            applications with a strong focus on scalability, performance, and
+            user experience. Experienced in building microservices-based
+            architectures, integrating RESTful APIs, and implementing responsive
+            web designs. Proficient in database management (MySQL), DevOps tools
+            (Docker, Jenkins, Git), and Agile methodologies (Scrum, JIRA).
+            Successfully led e commerce and hospitality projects, enhancing
+            digital platforms for major brands. Passionate about delivering
+            robust digital solutions through efficient backend services and
+            seamless frontend experiences.
           </p>
         </section>
 
@@ -137,6 +137,7 @@ function App() {
           <div className="grid grid-cols-2 md:grid-cols-3 gap-4 text-gray-200">
             <span>Java</span>
             <span>Spring Boot</span>
+            <span>Dot Net</span>
             <span>PHP</span>
             <span>NodeJS</span>
             <span>ReactJS</span>
@@ -160,6 +161,29 @@ function App() {
             <li>AWS Cloud Practitioner – Udemy</li>
             <li>Full Stack Development Training – Udemy</li>
           </ul>
+        </section>
+
+        {/* Education */}
+        <section className="space-y-4">
+          <h2 className="text-3xl font-bold text-purple-300 border-b border-purple-500 pb-2">
+            Education
+          </h2>
+          <div className="space-y-4 text-gray-200">
+            <div>
+              <p className="font-semibold">
+                Bachelor of Technology in Computer Science and Engineering
+              </p>
+              <p className="text-sm text-gray-400">
+                2016 – 2020 | Kerala, India | KTU
+              </p>
+            </div>
+            <div>
+              <p className="font-semibold">Higher Secondary Education</p>
+              <p className="text-sm text-gray-400">
+                2014 – 2016 | Kerala, India | Kerala Board (HSE)
+              </p>
+            </div>
+          </div>
         </section>
 
         {/* Footer */}
